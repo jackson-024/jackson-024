@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jeff, a passionate software developer with a drive for innovation and problem-solving.
+I'm Jeff, a passionate fullstack software engineer with a drive for innovation and problem-solving.
 
 🔭 I’m currently working on portals for a Digital lending platform 
 
