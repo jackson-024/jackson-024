@@ -23,6 +23,7 @@ Languages used:
 
 Current coding activity.
 <br />
+
 [!["wakatime embed"](https://wakatime.com/share/@jack_024/35ae51dd-96d5-4759-a701-fd17ba52fe88.svg)](https://wakatime.com/share/@jack_024/35ae51dd-96d5-4759-a701-fd17ba52fe88.svg)
 
 <!--
