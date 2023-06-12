@@ -8,7 +8,7 @@ I'm Jeff, a passionate fullstack software engineer with a drive for innovation a
 
 📫 How to reach me: miringujeff02@gmail.com
 
-Languages used:
+Languages and tools used:
 
 [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]() 
