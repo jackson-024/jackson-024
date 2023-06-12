@@ -12,6 +12,7 @@ Languages used:
 <img width="1000" height="500" src="https://wakatime.com/share/@jack_024/f45dd64e-134a-4c27-8be9-ff45dc7a0120.svg" alt="Wakatime" />
 
 Current coding activity.
+<br />
 [!["wakatime embed"](https://wakatime.com/share/@jack_024/35ae51dd-96d5-4759-a701-fd17ba52fe88.svg)](https://wakatime.com/share/@jack_024/35ae51dd-96d5-4759-a701-fd17ba52fe88.svg)
 
 <!--
