@@ -4,7 +4,7 @@ I'm Jeff, a passionate fullstack software engineer with a drive for innovation a
 
 🔭 I’m currently working on portals for a Digital lending platform 
 
-💬 Ask me about javascript, React, Python ....
+💬 Ask me about javascript, React, Python, Java ....
 
 📫 How to reach me: miringujeff02@gmail.com
 
