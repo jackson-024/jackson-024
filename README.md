@@ -24,7 +24,7 @@ Languages and tools used:
 Current coding activity.
 <br />
 
-[!["wakatime embed"](https://wakatime.com/share/@jack_024/35ae51dd-96d5-4759-a701-fd17ba52fe88.svg)](https://wakatime.com/share/@jack_024/35ae51dd-96d5-4759-a701-fd17ba52fe88.svg)
+[!["wakatime embed"](<figure><embed src="https://wakatime.com/share/@jack_024/54ae0a69-3c47-4355-9f94-b3c199a60db9.svg"></embed></figure>)
 
 <!--
 **jackson-024/jackson-024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
